@@ -1,0 +1,2 @@
+With the help of stochastic gradient descent algorithm I have implmented a SGDRegressor from scracth. 
+At the end result from model was very close to the sklearn implimrnation and that is actually pretty good.
